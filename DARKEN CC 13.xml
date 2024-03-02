@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2024-03-02 05:23 PM
+5.0.249.1002172 (1002172)
+eaa988d (23-yan, 2024 18:44:49)
+-->
+<scene title="DARKEN CC 13" width="1080" height="1080" exportWidth="3000" exportHeight="4000" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="499" fps="60" modifiedTime="1709382235021" amver="1002172" ffver="106" am="com.alightcreative.motion/5.0.249.1002172" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/1000071587" filename="1709363587653.jpg" title="1709363587653.jpg" type="image/jpeg" duration="0" size="448430" orientation="0" infoUpdated="1709382218854" width="0" height="0" />
+  <shape id="6445305" label="IMG_20231227_212748_139.jpg" startTime="0" endTime="499" fillType="media" fillImage="content://media/external/images/media/1000071587" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,540.000000,0.000000" />
+      <scale value="0.360000,0.360000" />
+    </transform>
+    <property name="size" type="vec2" value="1500.000000,1500.000000" />
+  </shape>
+  <shape id="6325609" label="Rectangle 1" startTime="0" endTime="499" fillType="color" mediaFillMode="stretch" s=".rect">
+    <transform>
+      <location value="1126.730225,531.918335,0.000000" />
+      <scale value="4.497353,2.750463" />
+      <opacity value="0.509636" />
+    </transform>
+    <fillColor value="#ffd78578" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.gradientoverlay2" locallyApplied="false">
+      <property name="alpha" type="float" value="0.719000" />
+      <property name="blendMode" type="int" value="1" />
+      <property name="color1" type="color" value="#ffffffff" />
+      <property name="color2" type="color" value="#ff000000" />
+      <property name="scale" type="float" value="1.800000" />
+      <property name="angle" type="float" value="0.000000" />
+      <property name="gradType" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="false">
+      <property name="exposure" type="float" value="0.620000" />
+      <property name="gamma" type="float" value="0.915000" />
+      <property name="offset" type="float" value="-0.010000" />
+    </effect>
+    <effect id="com.alightcreative.effects.rgbsep" locallyApplied="false">
+      <property name="centerChannel" type="int" value="0" />
+      <property name="strength" type="float" value="0.020000" />
+      <property name="angle" type="float" value="0.000000" />
+      <property name="mode" type="int" value="2" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-0.495000" />
+      <property name="vib" type="float" value="1.220000" />
+    </effect>
+    <effect id="com.alightcreative.effects.highlightshadow" locallyApplied="false">
+      <property name="highlights" type="float" value="1.370000" />
+      <property name="shadows" type="float" value="0.580000" />
+    </effect>
+    <effect id="com.alightcreative.effects.lensblur2" locallyApplied="false">
+      <property name="strength" type="float" value="0.030000" />
+      <property name="radius" type="float" value="0.150000" />
+    </effect>
+    <effect id="com.alightcreative.effects.spinblur2" locallyApplied="false">
+      <property name="angle" type="float" value="0.700000" />
+    </effect>
+    <property name="size" type="vec2" value="122.607391,200.478271" />
+  </shape>
+  <shape id="6325610" label="Rectangle 2" startTime="0" endTime="499" fillType="color" blending="screen" mediaFillMode="stretch" s=".rect">
+    <transform>
+      <location value="1126.730225,531.918335,0.000000" />
+      <scale value="4.619015,2.601454" />
+    </transform>
+    <fillColor value="#ff8e8799" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.flicker2" locallyApplied="false">
+      <property name="freq" type="float" value="10.000000" />
+      <property name="mag" type="float" value="0.660000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="basis" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="119.377869,211.961700" />
+  </shape>
+  <shape id="6325611" label="Rectangle 3" startTime="0" endTime="499" fillType="color" blending="soft-light" mediaFillMode="stretch" s=".rect">
+    <transform>
+      <location value="1126.730225,531.918335,0.000000" />
+      <scale value="4.557360,2.711631" />
+    </transform>
+    <fillColor value="#ff17e1e1" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="false">
+      <property name="exposure" type="float" value="0.480000" />
+      <property name="gamma" type="float" value="0.835000" />
+      <property name="offset" type="float" value="-0.080000" />
+    </effect>
+    <property name="size" type="vec2" value="120.992859,203.349319" />
+  </shape>
+  <shape id="6325612" label="Rectangle 4" startTime="0" endTime="499" fillType="color" blending="linear-dodge" mediaFillMode="stretch">
+    <transform>
+      <location value="1126.730225,531.918335,0.000000" />
+      <scale value="5.514082,5.514082" />
+      <opacity value="0.480519" />
+    </transform>
+    <fillColor value="#ffe3bf8a" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="false">
+      <property name="strength" type="float" value="0.985000" />
+    </effect>
+    <path d="M -100.0 -100.0L 100.0 -100.0L 100.0 100.0L -100.0 100.0L -100.0 -100.0Z" />
+  </shape>
+</scene>
